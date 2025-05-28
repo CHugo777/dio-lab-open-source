@@ -1,4 +1,16 @@
 <h1>
+<strong> Nome </strong>
+    Carlos Hugo 
+
+<strong> Bio </strong>
+Estudante de desenvolvimento web e apaixonada por tecnologia.
+
+<strong> Contato </strong>
+- GitHub: [@CHugo777](https://github.com/CHugo777)
+- LinkedIn: [Carlos Hugo](https://www.linkedin.com/in/carlos-hugo-69419327b/)
+</h1>
+
+<h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Guia de Contribuição</span>
@@ -93,3 +105,4 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GITHUB. Configurar diretrizes para os contribuidores do repositório](https://docs.github.com/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+- adiciona perfil carlos-hugo
